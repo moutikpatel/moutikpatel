@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moutik Ptael</h1>
 <h3 align="center">Crafting Solutions Through Bits and BYTEs.</h3>
 
-<img align="right" alt="Vibing" width="400" src="./a53560c8088900e266880f779dacced7.gif">
+<img align="right" alt="Vibing" width="400" src="./a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moutik7&label=Profile%20views&color=0e75b6&style=flat" alt="moutik7" /> </p>
 

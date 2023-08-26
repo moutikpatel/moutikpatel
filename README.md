@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moutik Ptael</h1>
+<h1 align="center">Hi 👋, I'm Moutik Patel</h1>
 <h3 align="center">Crafting Solutions Through Bits and BYTEs.</h3>
 
 <img align="right" alt="Vibing" width="400" src="./a.gif">

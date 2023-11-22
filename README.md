@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **moutikpatel@gmail.com**
 
-- ⚡ Fun fact **Adventurous Coder | Pizza Enthusiast**
+- ⚡ Fun fact **Adventurous Coder| Photographer | Pizza Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
